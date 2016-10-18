@@ -5,5 +5,4 @@ This project is lunched for following perpose:
 
 This project is built on following framework:
 1. Scrapy
-333333333
-33333
+
